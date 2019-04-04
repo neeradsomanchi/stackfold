@@ -14,7 +14,7 @@ Full thread dump Java HotSpot(TM) 64-Bit Server VM (23.25-b01 mixed mode):
    java.lang.Thread.State: RUNNABLE
    No compile task
 
-"Signal Dispatcher" daemon prio=5 tid=0x00007fda14895800 nid=0x5003 runnable [0x0000000000000000]
+"Signal Dispatcher" #4 daemon prio=9 os_prio=0 cpu=0.26ms elapsed=27760.92s tid=0x00007f76101acdf0 nid=0x193 runnable  [0x0000000000000000]
    java.lang.Thread.State: RUNNABLE
 
 "Finalizer" daemon prio=5 tid=0x00007fda14858000 nid=0x3f03 in Object.wait() [0x000000018d8a5000]
